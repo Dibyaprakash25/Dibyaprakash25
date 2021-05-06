@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...Web developement
 - 📫 How to reach me: ...dibyaprakashprusty25@gmail.com
-- 😄 Pronouns: ...He/Him
+- 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...I am half Finnish
 -->
